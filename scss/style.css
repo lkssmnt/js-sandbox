@@ -1,3 +1,15 @@
 h1 {
     color: mediumaquamarine;
 }
+
+.test-btn {
+    color: white;
+    font-size: 100px;
+    background-color: hotpink;
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    border-radius: 10px;
+    padding: 20px 80px;
+    cursor: pointer;
+}
