@@ -72,3 +72,7 @@ main {
 .canvas2 {
   border: 1px solid red;
 }
+
+#myCanvas {
+  background-color: whitesmoke;
+}
